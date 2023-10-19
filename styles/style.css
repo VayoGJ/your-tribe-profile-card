@@ -7,12 +7,12 @@ html {
 }
 
 body {
-  display: ;
+  display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
   font-family: open sans;
-  color: #10214e;
+  color: #0d1220;
 }
 
 article {
